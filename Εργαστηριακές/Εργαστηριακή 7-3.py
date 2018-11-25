@@ -5,7 +5,7 @@ notes = ['La', 'La#', 'Si', 'Do', 'Do#',
 
 
 allnotes = []
-d = 2 ** (2/12)
+d = 2 ** (1/12)
 
 freq = 440
 
