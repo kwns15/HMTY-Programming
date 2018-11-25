@@ -30,6 +30,7 @@ while freq <= 20000:
 
 allnotes.sort(key = lambda i: i[1])
 
+
 def closestNote(f):
     for i, note in enumerate(allnotes):
         if f < note[1]:break
