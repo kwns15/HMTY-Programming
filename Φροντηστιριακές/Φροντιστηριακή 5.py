@@ -60,11 +60,11 @@ for i in range(10):
 
 #θεμα 4
 
-n = 1       
+s = 0      
 for i in range(2):
     while True:
         if fib(n) % nprime(n) == 0: break
         n +=1 
-    print(n)
-    n += 1
+    s += n
+print(s)
 '''
