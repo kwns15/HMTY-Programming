@@ -66,5 +66,6 @@ for i in range(2):
         if fib(n) % nprime(n) == 0: break
         n +=1 
     s += n
+    n += 1
 print(s)
 '''
