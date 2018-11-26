@@ -60,7 +60,8 @@ for i in range(10):
 
 #θεμα 4
 
-s = 0      
+s = 0
+n = 1
 for i in range(2):
     while True:
         if fib(n) % nprime(n) == 0: break
