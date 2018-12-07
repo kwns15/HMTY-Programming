@@ -26,7 +26,7 @@ def nprime(n):
                 i += 1
             primes.append(i)
         return primes[-1]
-            
+'''           
 ###Θεμα 1
 while True:
     num = input()
@@ -36,7 +36,7 @@ while True:
     num = int(num)
     print(fib(num))
 
-'''
+
 ## Θεμα 2
 while True:
     num = input()
@@ -47,6 +47,7 @@ while True:
     print(nprime(num))
 
 ## Θεμα 3
+'''
 j = 3
 
 
@@ -59,6 +60,7 @@ for i in range(10):
     print(n)
 
 #θεμα 4
+'''
 
 s = 0
 n = 1
